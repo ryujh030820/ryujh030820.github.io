@@ -1,0 +1,20 @@
+﻿---
+published: true
+title: "첫 글"
+author:
+  name: JH
+  link: https://github.com/ryujh030820
+date: 2024-09-27 21:51:00 +0900
+categories: [etc]
+tags: [first_post]
+---
+
+## GitHub 블로그 시작!
+
+예전부터 GitHub 블로그로 옮겨야지 옮겨야지... 했다가 드디어 옮긴다.
+원래 나는 velog, 노션과 같은 서비스들을 이용했었지만 GitHub 블로그로 옮기기로 결심한데에는 다음과 같은 이유들이 있다.
+
+1.  GitHub 블로그는 자유도가 높다.
+2.  향후 포트폴리오로 사용될 수도 있기에 나만의 블로그를 갖고 싶었다.
+
+따라서 앞으로 학과 공부 및 개인 공부, PS 풀이 등 다양한 글들을 GitHub 블로그에 업로드할 예정이다!
