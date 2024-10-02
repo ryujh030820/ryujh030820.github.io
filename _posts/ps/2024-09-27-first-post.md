@@ -1,9 +1,6 @@
 ﻿---
 published: true
 title: "첫 글"
-author:
-  name: JH
-  link: https://github.com/ryujh030820
 date: 2024-09-27 21:51:00 +0900
 categories: [etc]
 tags: [first_post]

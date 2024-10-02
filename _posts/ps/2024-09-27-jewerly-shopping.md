@@ -1,9 +1,6 @@
 ---
 published: true
 title: "[프로그래머스] [Level 3] 보석 쇼핑 (C++)"
-author:
-  name: JH
-  link: https://github.com/ryujh030820
 date: 2024-09-27 22:20:00 +0900
 categories: [Development, PS]
 tags: [ps, 프로그래머스, c++]

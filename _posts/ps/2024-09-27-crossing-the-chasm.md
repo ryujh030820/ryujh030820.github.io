@@ -1,9 +1,6 @@
 ---
 published: true
 title: "[프로그래머스] [Level 3] 징검다리 건너기 (C++)"
-author:
-  name: JH
-  link: https://github.com/ryujh030820
 date: 2024-09-27 22:21:00 +0900
 categories: [Development, PS]
 tags: [ps, 프로그래머스, c++]

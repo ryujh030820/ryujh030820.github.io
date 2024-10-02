@@ -1,9 +1,6 @@
 ---
 published: true
 title: "[프로그래머스] [Level 3] 연속 펄스 부분 수열의 합 (C++)"
-author:
-  name: JH
-  link: https://github.com/ryujh030820
 date: 2024-09-27 22:31:00 +0900
 categories: [Development, PS]
 tags: [ps, 프로그래머스, c++]
