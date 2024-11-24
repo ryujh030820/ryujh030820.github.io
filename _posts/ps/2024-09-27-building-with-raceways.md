@@ -30,11 +30,11 @@ tags: [ps, 프로그래머스, c++]
 
 예를 들어, 아래 그림은 `직선 도로` 6개와 `코너` 4개로 구성된 임의의 경주로 예시이며, 건설 비용은 6 x 100 + 4 x 500 = 2600원 입니다.
 
-![kakao_road2.png](/assets/img/kakao_road2.png)
+![kakao_road2.png](/assets/img/building-with-raceways/kakao_road2.png)
 
 또 다른 예로, 아래 그림은 `직선 도로` 4개와 `코너` 1개로 구성된 경주로이며, 건설 비용은 4 x 100 + 1 x 500 = 900원 입니다.
 
-![kakao_road3.png](/assets/img/kakao_road3.png)
+![kakao_road3.png](/assets/img/building-with-raceways/kakao_road3.png)
 
 도면의 상태(0은 비어 있음, 1은 벽)을 나타내는 2차원 배열 board가 매개변수로 주어질 때, 경주로를 건설하는데 필요한 최소 비용을 return 하도록 solution 함수를 완성해주세요.
 
