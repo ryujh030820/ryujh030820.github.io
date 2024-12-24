@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: JH의 블로그 # the main title
 
-tagline: 매일 조금씩 배워가는걸 목표로 삼습니다. # it will display as the subtitle
+tagline: Victory awaits him who has everything in order, luck some people call it. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   머신러닝, 딥러닝, 컴퓨터 비전, 알고리즘
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
